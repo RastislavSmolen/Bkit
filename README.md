@@ -1,2 +1,2 @@
 # Bkit
-BKit is button library for creation simple buttons without adding a complexity to your codebase.
+Bkit is a button library for the creation of simple buttons without adding complexity to your codebase.
